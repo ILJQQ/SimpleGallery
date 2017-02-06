@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleGallery</string>
+    <string name="btnImg">点击查看图片</string>
+</resources>
